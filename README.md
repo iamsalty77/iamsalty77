@@ -2,7 +2,7 @@
 
 🎮 Interest : Kotlin, Linux
 
-📝 Certificate : Engineer Information Processing, TOEIC 960
+📝 Certificate : Engineer Information Processing, TOEIC
 
 📞 Contact : iamsalty77@gmail.com
 
