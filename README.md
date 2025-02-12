@@ -1,4 +1,4 @@
-📚 #Technology Stack :
+📚 # Technology Stack :
 <br>
 <br>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white">
