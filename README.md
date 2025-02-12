@@ -19,7 +19,7 @@
 📞 Contact : iamsalty77@gmail.com
 
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=iamsalty77)](https://github.com/iamsalty77) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsalty77)](https://github.com/iamsalty77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsalty77)](https://github.com/iamsalty77/github-readme-stats) [![*'s github stats](https://github-readme-stats.vercel.app/api?username=iamsalty77)](https://github.com/iamsalty77) 
 
 
 
