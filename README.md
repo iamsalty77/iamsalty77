@@ -13,8 +13,3 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </div>
-<br>
-<h1 align="left">Status : </h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsalty77&hide=html,css&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/iamsalty77)  
-[![iamsalty77's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsalty77&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/iamsalty77)
